@@ -1,6 +1,6 @@
-## Welcome to Hiromu Kondo's GitHub<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
+## Welcome to Hiromu Kondo's GitHub<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">👋
 
-### Skills
+### 💻 Skills
 * Frontend
   * HTML, CSS, JavaScript, TypeScript
   * React/Next.js, Vue/Nuxt.js
