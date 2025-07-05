@@ -11,7 +11,7 @@
 * CI/CD
   * GitHub Actions
 * Infra Cloud
-  * AWS, ECS/Fargate
+  * AWS, Google Cloud
   * Docker
 * IaC
   * Terraform
